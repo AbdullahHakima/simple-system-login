@@ -11,7 +11,7 @@ void Validation(string username, string password)
 		cout << "Wellcome , " << username << endl;
 		options = false;
 	}//some hard code because i don't use file stream
-	if (username == "aya" && password == "123a")
+	if (username == "mohamed" && password == "123a")
 	{
 		cout << "Wellcome , " << username << endl;
 		options = false;
